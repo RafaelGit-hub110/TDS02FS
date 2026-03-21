@@ -28,7 +28,7 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 • Operadores  
 • Estruturas condicionais  
 • Estruturas de repetição  
-• Fluxogramas e pseudocódigo
+• Pseudocódigo
 
 🧩 Unidade 2 — Programação Orientada a Objetos
 • Classe e objeto  
@@ -72,15 +72,9 @@ Ao final da disciplina, você conseguirá:
 ✔ Iniciar sua jornada na área de tecnologia
 
 🌍 Onde essa disciplina é aplicada:
-
 💻 Desenvolvimento de Software  
-🤖 Automação de Processos (RPA)  
-📊 Análise de Dados  
-🧠 Inteligência Artificial  
-🌐 Desenvolvimento Web  
-📱 Aplicativos Mobile
-💡 Mensagem Final
 
+💡 Mensagem Final:
 Programação não é decorar código.
 É aprender a pensar, analisar e resolver problemas.
 
