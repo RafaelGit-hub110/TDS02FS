@@ -1,4 +1,5 @@
 💻 Fundamentos de Programação
+
 🎓 Apresentação da Disciplina
 
 Bem-vindo ao universo da programação!
@@ -23,14 +24,16 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 📚 Conteúdo da Disciplina
 
 🔹Unidade 1 — Lógica de Programação
+
 • Algoritmos  
 • Variáveis e tipos de dados  
 • Operadores  
 • Estruturas condicionais  
 • Estruturas de repetição  
-• Fluxogramas e pseudocódigo
+• Pseudocódigo
 
 🧩 Unidade 2 — Programação Orientada a Objetos
+
 • Classe e objeto  
 • Atributos e métodos  
 • Encapsulamento  
@@ -39,6 +42,7 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 • Abstração
 
 🗂 Unidade 3 — Estruturas de Dados
+
 • Vetores (Arrays)  
 • Listas  
 • Pilhas (Stack)  
@@ -48,6 +52,7 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 🛠 Como vamos aprender
 
 Metodologia
+
 📖 Aulas explicativas  
 💻 Exercícios práticos  
 🧪 Atividades em laboratório  
@@ -74,12 +79,8 @@ Ao final da disciplina, você conseguirá:
 🌍 Onde essa disciplina é aplicada:
 
 💻 Desenvolvimento de Software  
-🤖 Automação de Processos (RPA)  
-📊 Análise de Dados  
-🧠 Inteligência Artificial  
-🌐 Desenvolvimento Web  
-📱 Aplicativos Mobile
-💡 Mensagem Final
+
+💡 Mensagem Final:
 
 Programação não é decorar código.
 É aprender a pensar, analisar e resolver problemas.
