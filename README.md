@@ -25,6 +25,8 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 
 🔹Unidade 1 — Lógica de Programação
 
+(período 21 e 28 de março)
+
 • Algoritmos  
 • Variáveis e tipos de dados  
 • Operadores  
@@ -34,6 +36,8 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 
 🧩 Unidade 2 — Programação Orientada a Objetos
 
+(período 11 e 18 de abril)
+
 • Classe e objeto  
 • Atributos e métodos  
 • Encapsulamento  
@@ -42,6 +46,8 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 • Abstração
 
 🗂 Unidade 3 — Estruturas de Dados
+
+(período 25 de abril e 02 de maio)
 
 • Vetores (Arrays)  
 • Listas  
